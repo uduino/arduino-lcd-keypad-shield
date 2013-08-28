@@ -2,7 +2,8 @@
 #include <LiquidCrystal.h>
 /*******************************************************
 This program will test the LCD panel and the buttons
-Mohan , August 2013
+Mohan www.microduino.org, August 2013
+Demo : http://microduino.org/2013/08/arduino-lcd-and-button-shield-programing/
 ********************************************************/
 // select the pins used on the LCD panel
 LiquidCrystal lcd(8, 9, 4, 5, 6, 7);
